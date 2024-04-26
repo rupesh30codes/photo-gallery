@@ -65,6 +65,7 @@ h3 {
     line-height: 60px;
     padding: 0 40px;
     color: white;
+    border-radius:5px;
 }
 
 label {
@@ -202,9 +203,12 @@ label:hover {
         margin: 0 10px;
         font-size: 14px;
         line-height: normal;
+        margin-top:25px;
+        margin-right:0px;
     }
     h3{
         padding: 0 20px;
         line-height: normal;
+        
     }
 }
